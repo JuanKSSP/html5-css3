@@ -1,0 +1,42 @@
+* {
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    color: #0086D9;
+    background: #0a0016;
+    height: auto;
+
+}
+.main-page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.left-page{
+    width: 50%;
+    flex-direction: column;
+}
+.right-page{
+    width: 50%;
+    flex-direction: column;
+}
+.card-login{
+    
+    padding: 10px 10px;
+    background: #08151C;
+    flex-direction: column;
+    border-radius: 10%;
+    box-sizing: border-box;
+}
+.main-login{
+    width: 100%;
+    padding: 30px;
+    margin: 0px;
+}
+.main-email{
+    margin: 20px 0px;
+}
+.main-password{
+    margin: 20px 0px;
+}

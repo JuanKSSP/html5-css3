@@ -1,0 +1,10 @@
+                Cadastrando Devs
+                  sub-titulo
+                
+                nome=          sobrenome=
+                email=
+                senioridade-em forma de escolha
+                linguagens-Em forma de checkbox
+                feedback-em forma de text area
+                botao-Em forma de submit
+                footer-Meu nome
