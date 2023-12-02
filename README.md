@@ -5,4 +5,4 @@
 
  EXERCICIOS
 
- Exercicio 001: https://juankssp.github.io/html5-css3/Exercicios/Ex001/
+ <a href="https://juankssp.github.io/html5-css3/Exercicios/Ex001/">Exercicio 001</a>: 
